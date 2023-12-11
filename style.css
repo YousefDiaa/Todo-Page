@@ -1,0 +1,38 @@
+
+body{
+    background-color: black;
+}
+ol{
+    margin: 0;
+    padding: 10px;
+}
+.test{
+        padding: 5px;
+            display: flex;
+            justify-content: space-between;
+}
+.btn{
+    padding: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    background-color: transparent;
+}
+input{
+    background-color: transparent;
+    border-color: gold;
+    border-radius: 10px;
+    width:50%;
+}
+input:hover{
+    border-color: blue;
+}
+.btn:hover{
+    background-color: gold;
+}
+.con{
+    margin: 40px 30%;
+    padding: 10px;
+    border-radius: 5px;
+background: rgb(34,193,195);
+background: linear-gradient(140deg, rgba(34,193,195,1) 0%, rgba(56,33,148,1) 100%);
+}
